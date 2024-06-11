@@ -1,0 +1,15 @@
+{
+  "name": "youtube-backeng",
+  "version": "1.0.0",
+  "description": "a backend at rjanish rj",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "rajnish"
+  ],
+  "author": "Rajnish Rj",
+  "license": "ISC"
+}
